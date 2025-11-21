@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <item>
+    <id>1</id>
+    <name>Rose</name>
+    <type>Flower</type>
+    <price>10</price>
+    <image>images/rose.jpg</image>
+  </item>
+  <item>
+    <id>2</id>
+    <name>Lily</name>
+    <type>Flower</type>
+    <price>12</price>
+    <image>images/lily.png</image>
+  </item>
+  <item>
+    <id>3</id>
+    <name>Snake Plant</name>
+    <type>House Plant</type>
+    <price>20</price>
+    <image>images/snake-plant.jpg</image>
+  </item>
+</inventory>
